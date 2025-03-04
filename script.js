@@ -1,1 +1,3 @@
-console.log('Separate script.');
+function sayHi(name) {
+  console.log(`Hello ${name}!`);
+}
