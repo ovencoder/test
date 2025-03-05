@@ -1,5 +1,5 @@
-console.log('Hello from another site!');
+console.log('Hello from another site 1!');
 
-function sayHi(name) {
+function sayHi1(name) {
   console.log(`Hello, ${name}!`);
 }
